@@ -1,0 +1,1 @@
+An script that streams twitter results based on a list of twitter handles and a keyword, such as **Gun**. Track and store all the tweets by US Senators containing the word **Gun**.
